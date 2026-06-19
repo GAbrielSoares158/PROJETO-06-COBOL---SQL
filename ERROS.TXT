@@ -1,0 +1,11 @@
+====================================================
+     LOG DE ERROS - PROCESSAMENTO BATCH              
+====================================================
+ERRO CLI 00999 - NOME OBRIGATORIO
+ERRO TRX 00060 - CLIENTE NAO ENCONTRADO
+ERRO TRX 00070 - TIPO INVALIDO: X
+ERRO TRX 00080 - VALOR ZERADO
+ERRO TRX 00050 - SALDO INSUFICIENTE
+====================================================
+TOTAL DE ERROS REGISTRADOS: 5
+====================================================

@@ -54,7 +54,7 @@ O script faz tudo na seguinte ordem:
 ## Estrutura de arquivos
 
 ```
-projeto6/
+projeto6.1/
 ├── c_bridge/
 │   └── db_bridge.c        # Camada C - ponte COBOL <-> MySQL
 ├── cobol/
